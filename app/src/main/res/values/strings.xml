@@ -1,0 +1,750 @@
+<resources>
+    <string name="app_name">IELTSpeak</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IELTS SPEAKING</string>
+    <string name="nav_header_subtitle">Practice previous questions &amp; answers</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Topics</string>
+    <string name="menu_topic">All Topics</string>
+    <string name="menu_about">About</string>
+    <string name="menu_send_feedback">Send Feedback</string>
+    <string name="menu_rate_us">Rate Us</string>
+    <string name="rate_us_text">Please support us</string>
+    <string name="menu_share_with_friends">Share With Friends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="rating_text_1">Oh, no!</string>
+    <string name="rating_text_2">Please leave us some feedback.</string>
+    <string name="rating_text_4">You are awesome!</string>
+    <string name="rating_text_3">That\'s the best we can get! :)</string>
+    <string name="rating_text_5">We like you too!</string>
+
+    <string name="share_msg">Check this awesome app. You can get help for speaking in IELTS exam. It will increase your confidence and help you to be fluent in english. Download now </string>
+
+    <string name="about_info">This app is created for those people who can understand English very well but cannot speak properly or fluently. In this app we collect 30 most common topics for IELTS speaking test. Every topic contains questions that were asked in previous IELTS test. We attached all answers with the questions, so that users can get an idea how to answer the questions properly. You can summarize the answers but that\'s not a good idea. Always try to answer in your own way. If you want us to add more topics with answers, please let us know. So that we can improve our app according to the users need.</string>
+
+
+    <string-array name="all_topics">
+        <item>Accommodation</item>
+        <item>Art</item>
+        <item>Birthdays</item>
+        <item>Books</item>
+        <item>Celebrity</item>
+        <item>Clothes &amp; Fashion</item>
+        <item>Computer</item>
+        <item>Environment</item>
+        <item>Family</item>
+        <item>Food</item>
+        <item>Friends</item>
+        <item>Gift</item>
+        <item>Health</item>
+        <item>High School</item>
+        <item>Hobby</item>
+        <item>Hometown</item>
+        <item>Internet</item>
+        <item>Lifestyle</item>
+        <item>Music</item>
+        <item>Newspaper &amp; Magazine</item>
+        <item>Noise</item>
+        <item>Patience</item>
+        <item>Photography</item>
+        <item>Sports</item>
+        <item>Study</item>
+        <item>Transportation</item>
+        <item>Travel</item>
+        <item>TV &amp; Movies</item>
+        <item>Weather</item>
+        <item>Work</item>
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="accommodation_questions">
+        <item>Q. What kind of accommodation do you live in?</item>
+        <item>Q. Is it a big place?</item>
+        <item>Q. What is your favourite room in your house? Why?</item>
+        <item>Q. Does the place you live in have many amenities?</item>
+        <item>Q. Is there anything you would like to change about the place you live in?</item>
+        <item>Q. Do you plan to live there for a long time?</item>
+        <item>Q. What do you like about living there?</item>
+        <item>Q. Do you prefer living in a house or a flat?</item>
+
+    </string-array>
+    <string-array name="accommodation_answers">
+        <item>Ans: I live in an independent house which has proper fencing and a secure entrance. It has a nice front and a lavish green lawn decked with variety of flowers. At the back side of the house, there is a parking space for two cars. Overall, it is a well-planned building.</item>
+        <item>Ans: Yes, it is. There are 4 bedrooms in my house with 1 drawing and dining room and a big kitchen. Each of the bedrooms has attached bathroom. There are also a laundry and storage room as well.</item>
+        <item>Ans: Definitely my own bedroom. It’s the personal space where I can do whatever I want without getting scolded by my mom. Besides, my bedroom is an ideal place for me to avoid noise, so I tend to lock myself up in my bedroom whenever I need to concentrate on my study.</item>
+        <item>Ans: Yes, the house has everything I need for my daily routines. There is a laundry room with a washing machine, a full kitchen with appliances, and my own bedroom where I keep all of my things. There’s also a 24-hour security guard attending the front gate to our neighborhood.</item>
+        <item>Ans: Overall, my house is more than satisfactory. However, if I had to change something, I would expand the dining area. It is the most common space for family members to gather, so I think it would be nice if my house’s dining room could be a little more spacious.</item>
+        <item>Ans: Even though I’ve lived there my whole life, I don’t think I will live in this house forever. At some point I eventually plan to move out of my family’s house, most likely when I will begin a university program abroad.</item>
+        <item>Ans: I love everything about living there. Specially the location of my house. My house is less than 10 minutes from the largest shopping mall in the city. Besides it has a nice neighborhood and it’s convenient to everything I need.</item>
+        <item>Ans: Well, each type has some things to offer me but I would have to go for a house. There’s usually more space, and the water supply is much more reliable.</item>
+    </string-array>
+
+
+    <string-array name="art_questions">
+        <item>Q. Are you good at art?</item>
+        <item>Q. Did you learn art at school when you were a child?</item>
+        <item>Q. Do you think art classes are necessary?</item>
+        <item>Q. What kind of art do you like?</item>
+        <item>Q. Is it easy to learn how to draw?</item>
+        <item>Q. Is art popular in your country?</item>
+        <item>Q. Have you ever been to an art gallery?</item>
+        <item>Q. Do you think children can benefit from going to art galleries?</item>
+    </string-array>
+    <string-array name="art_answers">
+        <item>Ans: Well, Art is a really vast subject and if it is about drawing things here and there, I would say I am pretty fine at it. But I am surely not one of those who can make some masterpieces.</item>
+        <item>Ans: Yes. When I was a child, I joined a drawing class in ‘Ankon Academy’ and my teacher was very pleased with my drawings. I also participated in some drawing competitions back then.</item>
+        <item>Ans: Yes, definitely. Learning arts, especially at a young age, can help stimulate children’s cognitive development and encourage them to think outside the box.</item>
+        <item>Ans: I like sketching natural things, the ones that are very near to nature. It could be mountains or rivers or the trees, anything that is near to the nature.</item>
+        <item>Ans: I think I must say it’s even challenging for a lot of people. I absolutely failed when it comes to drawing still life paintings like fruit and flowers. I think for those who succeed in drawing or arts in general, they first must have God-gifted talent, then comes to the long-term commitment to arts that requires extreme practice and high patience.</item>
+        <item>Ans: I would say, art surely does gets importance as people really like to see great art work but when it comes down to choosing arts as a career it is not a very popular choice among people. They prefer pursuing their art goals as a mere hobby.</item>
+        <item>Ans: To tell the truth, I have never visited art galleries before. Unless I have a guide to acknowledge me, art galleries would be quite boring for me.</item>
+        <item>Ans: I think definitely yes. Art is that part of our lives that brings out the creative side of ours. If children go and visit art galleries, they might be able to understand things better and may be feel motivated to draw things and explore their creative sides.</item>
+
+    </string-array>
+
+
+    <string-array name="birthdays_questions">
+        <item>Q. Do you usually celebrate your birthday?</item>
+        <item>Q. Do you enjoy your birthday?</item>
+        <item>Q. Can you remember a birthday you enjoyed as a child?</item>
+        <item>Q. What did you do on your last birthday?</item>
+        <item>Q. What kinds of birthday gifts do you like to receive?</item>
+        <item>Q. With whom do you like to celebrate your birthday, family, friends or alone?</item>
+        <item>Q. How has the celebrating birthdays changed in the last few decades?</item>
+        <item>Q. Do most people celebrate their birthdays in your country?</item>
+    </string-array>
+    <string-array name="birthdays_answers">
+        <item>Ans: No, I am an introvert thereby. I don’t like celebrating my birthday. I prefer staying indoors and spending quality time with my close family members and friends, by having my favorite meal and having a nice conversation.</item>
+        <item>Ans: Yes, Birthday are definitely those days when we receive lots of wishes and gift from all of our family members and friends and all this makes us feel really special. I used to enjoy birthdays as a child. But as I’m getting older birthdays aren’t as exciting as they used to be earlier.</item>
+        <item>Ans: Yes, if my memory serves me well, all of my childhood birthdays were celebrated in a very special manner. However, I can still remember one particular birthday- my thirteenth birthday, when I got a lot of gifts from my family and I was taken to an “Amusement Park” where I rode on roller coaster for the first time in my life and enjoyed the whole afternoon in a large amusement park with my family.</item>
+        <item>Ans: My last birthday was quite fun. Though I couldn’t throw a party but there was a small get together only with my close family members. My friends surprised me with a delicious cake and we all had dinner together. It was not a big celebration but I could feel the warmth of my loved ones and that really made my day.</item>
+        <item>Ans: I believe everyone loves receiving gifts. I am also one of them. I would love to receive Watches, Bags, and clothes as gifts. I also have a very nice collection of these. But most importantly, all these gifts should be branded.</item>
+        <item>Ans: I prefer to celebrate my birthday with my family. I am a family guy, so I love to enjoy this precious time with my parents. After all, I can hang out with my friends all the time, but a birthday is a once-a-year thing.</item>
+        <item>Ans: These days, birthdays are a big thing and people go all out in making their birthdays memorable. Earlier, people used to prepare traditional dishes on their birthdays and used to celebrate birthdays at home with some close friends and family members. They used to visit religious place to seek blessings from God whereas nowadays people prefer visiting restaurants or bars on their birthdays. Many youngsters love to go out of town to have fun with the friends on their birthdays. So yes, celebration of birthdays has changed a lot.</item>
+        <item>Ans: I guess everyone loves to celebrate their birthdays no matter whether they are rich or poor. Some people are extravagant and throw huge fun-filled party and celebrate their birthdays with all their friends and family members. On the other hand, some people have to take care of their budget and accordingly they choose a low-key celebration. They cook food at home rather than going out to restaurants as that could be expensive. In my opinion birthdays are meant to bring your love ones together no matter whether the party is big or small.</item>
+    </string-array>
+
+
+    <string-array name="books_questions">
+        <item>Q. How often do you read books?</item>
+        <item>Q. Do you have many books at home?</item>
+        <item>Q. Do Bangladeshi people do enough reading?</item>
+        <item>Q. What kind of people like reading and what kind of people don’t like reading very much?</item>
+        <item>Q. What can be done to encourage the habit of reading among children?</item>
+        <item>Q. What are the benefits of reading?</item>
+        <item>Q. What is the difference between the books sold in the past and the books sold nowadays?</item>
+    </string-array>
+    <string-array name="books_answers">
+        <item>Ans: To be honest, I’m not a huge fan of reading books as I find it too boring. However, due to the nature of my work, I often have to read a lot of online references, technology white papers and many things.</item>
+        <item>Ans: Yes, I do have a bookshelf in my studyroom, but that belongs to my brother as he is a bookaholic. It has a wide range of books related to history, science, fiction and technology.</item>
+        <item>Ans: Well, in my opinion, yes. Especially the older generation who utilize their time by reading newspapers or magazines and always keep themselves updated with the current happenings. Adults are mainly into technology, so they read via online mediums, e-papers, and so on.</item>
+        <item>Ans: From my point of view, there is no standard answer for this. Some people have had a passion for reading from childhood; some developed it after reading an interesting novel. Book lovers are from all walks of life. On the other hand, some don’t like the idea of reading as they find it boring.</item>
+        <item>Ans: Well, at the top of my head, I’d say that the parents should inculcate reading habits at a young age. In addition, parents should put a cap on the leisure screen time and encourage their wards to rather utilize their time via reading books. For starters, parents can read the storybooks together with their children to make it sound fun.</item>
+        <item>Ans: The benefits of reading are immense and the most notable is that it improves concentration power and the ability to focus. By reading one can increase his/her general knowledge and decrease stress. It can even improve memory and critical thinking skills as well.</item>
+        <item>Ans: Well, the majority of the books published in the past were more focused on history, arts, culture, and religion. On the contrary, modern-day books are more about science, fiction, and technology. This is a key difference I observed.</item>
+    </string-array>
+
+
+    <string-array name="celebrity_questions">
+        <item>Q. Who is your favourite celebrity?</item>
+        <item>Q. Do you like any foreign celebrities?</item>
+        <item>Q. Have you ever met a superstar in real life?</item>
+        <item>Q. Would you want to be a celebrity in the future?</item>
+        <item>Q. Do you think we should protect famous people\'s privacy?</item>
+        <item>Q. How do celebrities influence their fans in your country?</item>
+        <item>Q. Do we learn anything from celebrities?</item>
+    </string-array>
+    <string-array name="celebrity_answers">
+        <item>Ans: There is a good number of famous and celebrity personalities in my country whom I admire. But there is a person I admire the most is "Sakib Al Hasan". He is one of the greatest all-rounder cricketers of all time.</item>
+        <item>Ans: Of course. I am a huge fan of English movies and music. So I like them very much. Actors like Pearce Brosnan, Tom Cruise, and Antony Hopkins are my favourites. In addition, I like the songs of Anne Maria, Katty Perry and Justin Biber.</item>
+        <item>Ans: Never in my life yet. I don\'t know, perhaps I\'m just unlucky not to stumble on a celebrity.</item>
+        <item>Ans: Not exactly. Celebrities did not get a personal space in between the public. I am a person who always gives great value to my personal space and personal moments. Furthermore, I do not believe that I had the quality to impress or to be followed by the public.</item>
+        <item>Ans: Definitely. Like us, they are also humans and they had emotions. As an individual, we must respect others and their privacy.</item>
+        <item>Ans: In my opinion, they had certain qualities which would impress the followers or fans. Rather than this, they blindly believe that they had some supernatural powers also.</item>
+        <item>Ans: Yes, I believe so. Great celebrities or who can be role models are teaching us indirectly to love our work, develop our talents and to be kind to those who are in need. These kinds of celebrities are the ones we should look up to.</item>
+    </string-array>
+
+
+    <string-array name="clothesAndFashion_questions">
+        <item>Q. What is your favourite item of clothing?</item>
+        <item>Q. Are there any traditional clothes in your country?</item>
+        <item>Q. Where do you usually purchase your clothes?</item>
+        <item>Q. How often do you buy new clothes for yourself?</item>
+        <item>Q. Have you ever bought clothes online?</item>
+        <item>Q. Do you think fashion is important?</item>
+        <item>Q. What kind of clothes do you dislike? </item>
+        <item>Q. Do you think there\'s a difference between "fashion" and "style"?</item>
+    </string-array>
+    <string-array name="clothesAndFashion_answers">
+        <item>Ans: Well, my all-time favourite attire is jeans, pants and a t-shirt. I can wear it almost daily and anywhere. I have many jeans pants in different colours, but my favourite is the combination of basic indigo colour pants and a white t-shirt.</item>
+        <item>Ans: Yes, my country is famous for traditional dresses. Shari is the main and traditional dress of Bangladeshi women. And some young female also wears salwar kameez. In urban areas women can also be seen wearing western clothes. And Bangladeshi men wear lungi as casual wear (in rural areas) and shirt pant or suits on formal occasions.</item>
+        <item>Ans: I buy most of my clothes from regular shops in regular markets where clothing items are affordable. However, when it comes to buying some special clothes for special occasions, I try to buy them from shopping malls where I can choose some clothes from a large collection of clothing items.</item>
+        <item>Ans: I don\'t really buy new clothes that often for myself as it usually takes a long time to wear them down. And, unless my clothes are worn out to make them look old, I don\'t like to buy any clothes for myself. So, anyway, if you are asking me to be precise, I would say that I buy new clothes as often as twice or thrice a year unless I have a very good reason to buy on more occasions than that.</item>
+        <item>Ans: Yes, I have bought them for many times. Whenever there is a big discount on branded items, I prefer to purchase them from online.</item>
+        <item>Ans: Clothes and fashion are very important to me primarily because it makes me look good and feel good about myself. Besides, they are very important to me because, in my culture, people do tend to judge others by the clothes or fashion styles they use, and I always like to be "judged" favourably.</item>
+        <item>Ans: I don\'t like any polyester or synthetic clothes mostly because they give me a rash. I don\'t like them also because they don\'t feel soft and comfortable enough. Besides, I don\'t really like to wear very revealing clothes because I find them to be "degrading" for a respectable person, be it a man or a woman.</item>
+        <item>Ans: I believe fashion is what is outside, so we have got fashion trends, things that most of the people at a particular time do. Like, wearing scarfs or certain kinds of pins. But, style is what comes from within. So, no matter you are following the fashion trend or not, if you are stylish, you can go a long way. Because, you can very well express yourself and it comes in everything that you do.</item>
+    </string-array>
+
+
+    <string-array name="computer_questions">
+        <item>Q. Do you often use computers?</item>
+        <item>Q. What do you use a computer for?</item>
+        <item>Q. How do you usually get online?</item>
+        <item>Q. Did you use computers when you were little?</item>
+        <item>Q. Do you prefer desktop or laptop?</item>
+        <item>Q. Do people often use computers these days?</item>
+        <item>Q. Will people continue to use computers in the future?</item>
+    </string-array>
+    <string-array name="computer_answers">
+        <item>Ans: Yes, I use computer regularly. I have a laptop which I use for my work. I also use it to keep in touch with my distant friends and family. I also use it to do research on various subjects and amplify my knowledge. Moreover, I often use it to entertain myself by watching movies and playing games.</item>
+        <item>Ans: I use it to study and do my research for assignments, check my emails, check social media updates, and sometimes use it to watch movies and games. Apart from that, I also use it for online shopping.</item>
+        <item>Ans: I have wi-fi installed in my home. So, everybody in my family uses it to access the internet. Whenever I travel, I rely on my internet dongle or smartphone for internet connection.Ans: Not exactly. When I was a child, electronic gadgets like mobile phones, tablets and computers were not familiar in my hometown. However, few well-established organizations and banks were amicable with these platforms.</item>
+        <item>Ans: Not exactly. When I was a child, electronic gadgets like mobile phones, tablets and computers were not familiar in my hometown. However, few well-established organizations and banks were amicable with these platforms.</item>
+        <item>Ans: I would prefer a laptop over desktops. They are easy to carry, easy to set up. It can be carried everywhere I travel. On the other hand, desktops require you to sit in one place and are not portable.</item>
+        <item>Ans: Definitely, computers help them to reduce work pressure, sending and receiving emails, appropriate calculations and so on. Apart from this, restaurants, cinemas and supermarkets are the other places where people often use computers.</item>
+        <item>Ans: Without any doubt, we can agree with the statement. People cannot move forward without the support of these gadgets. And in addition, technology might have developed each and every day. For example, industries like aviation, automobile, and railways are often attached with electronic platforms. So definitely, people will continue to use computers in the future.</item>
+    </string-array>
+
+
+    <string-array name="environment_questions">
+        <item>Q. Are there any environmental problems in your country?</item>
+        <item>Q. Do you think pollution is a big problem nowadays?</item>
+        <item>Q. Are you worried about climate change? </item>
+        <item>Q. In which way do people damage our planet?</item>
+        <item>Q. What do you do to prevent our environment from pollution?</item>
+        <item>Q. How can we protect the environment?</item>
+        <item>Q. Do you use renewable energy?</item>
+        <item>Q. Do you think that the environmental situation will improve in the nearest future?</item>
+    </string-array>
+    <string-array name="environment_answers">
+        <item>Ans: I think every country has some environmental problems, and mine is no exception. There is air pollution in the cities and around the coast the water has a lot of waste material in it.</item>
+        <item>Ans: I think it\'s a massive issue. It really worries me how much damage we are doing to the natural environment, especially how we pollute the oceans with plastic waste and release greenhouse gases into the atmosphere.</item>
+        <item>Ans: Most definitely. In my country, the weather is changing because of global warming and we get more bad storms than before. Governments and individuals need to do more to combat climate change.</item>
+        <item>Ans: In my point of view, we damage the Earth in many ways. Just take a look at all those factories that empty toxic waste into rivers and lakes. People also destroy a great deal of natural areas in search of fossil fuels. Not to mention poaching and endangering of wild animals.</item>
+        <item>Ans: I recycle as much rubbish as I can and I walk when possible, rather than driving or taking public transport in order to reduce my carbon footprint.</item>
+        <item>Ans: Being an ordinary citizens, I believe we can do a lot. First of all, we must strictly abide by environmental laws. We can practice recycling, save electricity as much as we can, avoid wasting water, minimize the use of cars, and many more. These things I\'ve mentioned are the little things that we ordinary citizens can do, however, when everyone is doing all of these things, I\'m pretty sure that the current environmental condition will significantly improve.</item>
+        <item>Ans: Not at the moment. I wanted to change my house to solar power but the panels are too expensive for me to buy so, unfortunately, I still use fossil fuels.</item>
+        <item>Ans: Yes, I would like to believe so. People are getting more and more aware of the major environmental issues that we\'re dealing with nowadays. I hope that we will get back to nature and start caring about our planet more.</item>
+    </string-array>
+
+
+    <string-array name="family_questions">
+        <item>Q. How many people are there in your family?</item>
+        <item>Q. Who does you get on best within your family?</item>
+        <item>Q. What do you do together with your family?</item>
+        <item>Q. How much time do you manage to spend with your family?</item>
+        <item>Q. Do you have a large extended family?</item>
+        <item>Q. Why is family important to you?</item>
+        <item>Q. Do you do housework at home?</item>
+    </string-array>
+    <string-array name="family_answers">
+        <item>Ans: Well, in my extended family, there are seven members, and we all live under one roof and have divided our responsibilities.</item>
+        <item>Ans: Well, I am closer to my mother than any other member of my family. I share all my secrets and my future plans with my mother, and if there is a need for an improvement, then my mother suggests to me, and I act upon the advice of my mother. So we have a very friendly relationship.</item>
+        <item>Ans: As I earlier mentioned that we celebrate all festivals together and if there is any ceremony like a marriage or any other birthday party then we also go there together at weekends. We sometimes go for a picnic. In this way, we spend maximum time with each other that is the reason that we have been living with each other for many years, and still, we have the same relationship with each other.</item>
+        <item>Ans: I usually try to spend most of the time with my family. But I cannot manage time when I am out for my university. But after my return from the university, I do not make any late to share the day-long events with the family members, especially with my mom.</item>
+        <item>Ans: No, my extended family has only seven members. Some are job holders while others are running their businesses. We celebrate all festivals together, and sometimes we all go outside for dinner.</item>
+        <item>Ans: Family is very important to me. It helps me in my difficult situations, and whenever I am in a dilemma, then family suggest me workable solution. Family motivation helps me a lot to achieve my goals. I can say behind the success of any person, the family has a key role.</item>
+        <item>Ans: Yes, housework is a part of my routine. I do domestic chores in the morning as well as in the evening. I help my mother in cooking as well as do mopping and dusting. Moreover, washing clothes is also a part of my job and I do it happily.</item>
+    </string-array>
+
+
+    <string-array name="food_questions">
+        <item>Q. What\'s your favourite food?</item>
+        <item>Q. Have you always liked the same food?</item>
+        <item>Q. Are there any foods you dislike?</item>
+        <item>Q. What are some traditional foods in your country?</item>
+        <item>Q. Do you have a healthy diet?</item>
+        <item>Q. Do you prefer eating at home or eating out?</item>
+        <item>Q. Do you like ordering food to be delivered?</item>
+        <item>Q. Do you eat meals differently now compared to when you were little?</item>
+        <item>Q. What do you think of fast food?</item>
+    </string-array>
+    <string-array name="food_answers">
+        <item>Ans: Well, I like to eat all types of food. But mostly I give priority to home-cooked food as it is full of nutrition which help me to keep health fit.</item>
+        <item>Ans: I don\'t think that I have the same type of food throughout the year because I prefer to eat different kinds of food with changing seasons and weather.</item>
+        <item>Ans: Well, I like all food like traditional, fast food. Therefore there is no food I do not like.</item>
+        <item>Ans: There are so many traditional foods in my country. Some of them are Biryani, Fried fish, Kacchi, Pitha, Curry, Sinngara and samosa, phuchka and so on.</item>
+        <item>Ans: Yes, I am a health-conscious person, so I always try to consume healthy things like fruits and vegetables, and I also prepare a balanced diet chart, which I follow on a daily basis.</item>
+        <item>Ans: I usually avoid eating outside and prefer to eat homemade food. Homemade food items have better taste, superior food values and I enjoy my dinner with my family members more than eating in a restaurant or a bistro.</item>
+        <item>Ans: Yes, I like ordering food to be delivered as it is the easiest and to have your meal when you are out of the city at that time helps a lot.</item>
+        <item>Ans: Well, yes. Comparing having meals when we were little to now is completely changed from eating habits to the varieties of food just like when we were little we haven\'t heard like chicken korma and many others dishes, but now we can easily have that dish once in a week.</item>
+        <item>Ans: In modern times, everyone, especially children, gives priority to eating junk food than home-cooked food because fast foods are made full of spices that satisfy their taste buds. However, they are unhealthy as made in unhealthy oil.</item>
+    </string-array>
+
+
+    <string-array name="friends_questions">
+        <item>Q. What kind of people do you like to make friends with?</item>
+        <item>Q. Do you think you are a good friend to others?</item>
+        <item>Q. What do you think makes a person a good friend?</item>
+        <item>Q. Are your friends mostly your age or different ages?</item>
+        <item>Q. Do you keep in touch with your childhood friends? </item>
+        <item>Q. The last time you saw your friends, what did you do together?</item>
+        <item>Q. In what ways are your friends important to you?</item>
+    </string-array>
+    <string-array name="friends_answers">
+        <item>Ans: I\'m very picky when it comes to making friends. As a result, I only have a handful of friends but they are near and dear to me. I value honesty and loyalty, so if one possesses these valuable traits, I can easily make friends with him.</item>
+        <item>Ans: I believe I am, as far as I’m concerned, my relationship with my closest friends would not last long if I was a terrible friend. Honestly, I treasure our relationship as much as I treasure my family. I believe that is one of the bases why I can confidently say that I\'m a good friend.</item>
+        <item>Ans: I believe this varies from person to person. As for me, I always look up to a friend who has a word of honor – someone who keeps his promise. Also, being trustworthy is a major thing for me . I can say that a person is a great friend when he can be trusted.</item>
+        <item>Ans: Most of my friends are about the same age as me because we met at school or university. I\'ve got one or two friends who are older or younger that I met through work.</item>
+        <item>Ans: Yes, I do but definitely only the closest friends of mine. I have three childhood friends whom I consider for keeps. One of them move out of our country for study purpose while the other two are living in my neighboring town. Though everyone is busy, we always make sure to update each other every now and then.</item>
+        <item>Ans: A couple of days ago I went to watch a movie at a nearby cineplex with my friends. The cineplex was showing a recently-released Hollywood movie and we planned to watch it together. On that day, we ate our lunch together in a restaurant and we talked about the European Football league final. We had much fun together and that was a great hangout with my friends.</item>
+        <item>Ans: My friends are important to me in many ways. Firstly, they share many common interests that I have, and that’s why I enjoy talking to them and spending time with them. I never feel bored or get out of topics while I am with them. We often have lively conversations among us about our studies, future plans and personal interests. They are indeed very good friends of mine as they have often extended their helping hands in my crisis time. I know I can also rely on them whenever I need help or support.</item>
+    </string-array>
+
+
+
+    <string-array name="gift_questions">
+        <item>Q. Why do people give gifts?</item>
+        <item>Q. Do you like giving or receiving gifts?</item>
+        <item>Q. When do you send gifts?</item>
+        <item>Q. What kind of gifts do you prefer?</item>
+        <item>Q. When was the last time you received a gift?</item>
+        <item>Q. What\'s the best present you have ever received?</item>
+        <item>Q. Do you give expensive gifts?</item>
+        <item>Q. Have you ever received a gift that you didn\'t like?</item>
+    </string-array>
+    <string-array name="gift_answers">
+        <item>Ans: I suppose people send presents to express their gratitude to someone. It\'s also a way to show that they care about the people who mean so much to them. Another reason is that people just want to reward their family members or closest friends who have achieved something remarkable in their life.</item>
+        <item>Ans: I like both. I feel thrilled when I receive a gift on special occasions like on birthday, and I also like to give gifts to others and make their day special, and I like to see their reaction when they open it.</item>
+        <item>Ans: On special occasions such as birthday, wedding, mother\'s day, father\'s day and teacher\'s day.</item>
+        <item>Ans: I prefer those things that the receiver can use in his/her daily life rather than putting it in the cupboard. The cost doesn’t matter to me, but a person’s feelings are essential for me.</item>
+        <item>Ans: The last time I received a gift was on my birthday this year. I received an apple watch from my mother.</item>
+        <item>Ans: I got an expensive watch as a graduation gift from my parents. I never thought that they would give me such a luxurious watch after completing my graduation. I know how high-priced that watch was since I saw it once in a catalog for very expensive watches. I was at a loss for words when I received it and I really couldn’t thank them enough for giving me that extremely valuable present.</item>
+        <item>Ans: To be very honest, I usually give presents that are of reasonable price and decent and luckily people like my gifts.</item>
+        <item>Ans: I like gifts. Sometimes the things which received as gifts are not essential to me. At that time I will give these things to my friends or my brothers because they can use these things for their purposes.</item>
+    </string-array>
+
+
+
+    <string-array name="health_questions">
+        <item>Q. In what ways do you try to stay healthy?</item>
+        <item>Q. Is it easy to keep fit where you live?</item>
+        <item>Q. What part of your lifestyle would you most like to make healthier?</item>
+        <item>Q. Are you careful about what you eat?</item>
+        <item>Q. How important is a healthy lifestyle for you?</item>
+        <item>Q. Do you eat much junk food?</item>
+        <item>Q. Is it important to you to eat healthy food?</item>
+        <item>Q. Why a healthy diet is important for us?</item>
+    </string-array>
+    <string-array name="health_answers">
+        <item>Ans: I try to have a balanced diet as often as I can. I also exercise regularly.</item>
+        <item>Ans: To be honest, no, it is not. Fast foods are always tempting. People around me can be bad influence when it comes to being fit especially when choosing healthy foods and doing some exercises.</item>
+        <item>Ans: Well, I would say, my sleeping habits. I can hardly get enough rest at night. I usually lack sleep.</item>
+        <item>Ans: Not really. But, I try though. It\'s just that, it\'s difficult to choose what to eat.</item>
+        <item>Ans: I think it is very important. It helps us to be more effective and productive with our everyday activities.</item>
+        <item>Ans: No. I rarely eat junk food. I just eat them when other people who are with me are eating them and I only eat a small amount.</item>
+        <item>Ans: Yes, it is absolutely important that we eat healthy because "health is wealth". Eating nutritious and healthy food, together with enough physical activities, can help us reach and maintain an optimum weight while also reducing the risks of developing life-threatening diseases like cancer and heart disease. I eat healthy food to lead a healthy life.</item>
+        <item>Ans: Having a healthy diet is important for us because it provides our bodies with all the food and nutritional values in a perfect measure which are necessary to maintain not only a healthy life physically but also mentally. Besides, a healthy diet is also very important in order to fight off deadly diseases such as heart attacks, strokes and cancers.</item>
+    </string-array>
+
+
+    <string-array name="highSchool_questions">
+        <item>Q. What is your high school like?</item>
+        <item>Q. Did your parents choose your high school for you?</item>
+        <item>Q. Who was your favourite teacher in high school?</item>
+        <item>Q. What was your favourite subject in high school?</item>
+        <item>Q. Which subject did you like the least? Why?</item>
+        <item>Q. Do you still remember what happened on your first day of high school?</item>
+        <item>Q. Do you still keep in touch with your friends from high school?</item>
+        <item>Q. Do you miss your life in high school?</item>
+    </string-array>
+    <string-array name="highSchool_answers">
+        <item>Ans: The building and capacity of my high school were too big, and one thing I admire the most about my school library was that it was perfect and fully decorated all the time with books and various prizes. Apart from that, the teachers were very nice and properly educated. During study time, they always try to maintain decorum in class.</item>
+        <item>Ans: Yes, this responsibility was handled by my parents. Before taking admissions they have searched for around 10 schools and gather relevant information about the it through internet and finally they have chosen the school which was best among all of them.</item>
+        <item>Ans: Mr. Hasan was my favourite teacher in my school now he is no more in this world, but I like the qualities of my teacher as he was dedicated, down to earth and veteran in his subject to teach the students.</item>
+        <item>Ans: Well, English was my favourite subject in school as it was taught to me by my favourite teacher. He was a pilot by profession, and if I am able to speak fluently, then the whole credit goes to this teacher. Due to it, I like this subject very much.</item>
+        <item>Ans: I was least interested in biology because it was all about theory, and it was not my cup of tea. In fact, I barely pass that subject with great difficulty.</item>
+        <item>Ans: I don’t remember exactly what happened. However, I do remember that all my classmates and I were feeling like we have entered an important stage in our lives and that we are grown ups now.</item>
+        <item>Ans: Yes, I am still in contact with a few friends from my high school because we studied together with our higher education, and if we go outside, then we make a plan together. In this way, we remember our childhood memories, and we have a belly laugh whenever we meet each other.</item>
+        <item>Ans: Yes, I really missed my high school, as I used to do a lot of fun in the class and there was a healthy competition among students to compete with each other. Moreover, sports acted as the icing on the cake because I had a great flair for sports, and by participating in spoon races, racing, cycle race, I won many prizes.</item>
+    </string-array>
+
+
+    <string-array name="hobby_questions">
+        <item>Q. Do you have a hobby?</item>
+        <item>Q. Why have you chosen this hobby?</item>
+        <item>Q. Do you think hobbies should be shared with other people?</item>
+        <item>Q. Did you have a hobby as a child?</item>
+        <item>Q. What hobbies are popular in your country?</item>
+        <item>Q. Is it harmful to spend too much time on a hobby?</item>
+        <item>Q. Why do you think people have hobbies?</item>
+    </string-array>
+    <string-array name="hobby_answers">
+        <item>Ans: Of course, I have several hobbies. But I love playing cricket the most because It makes me feel excited every time.</item>
+        <item>Ans: Because I love the game. I love everything about cricket and have played the game since I was a very young child. It has taught me the discipline of practice, how to rebound after a solid defeat and that grit is more important than talent.</item>
+        <item>Ans: Yeah, we do hobbies to enjoy, for fun purposes, we feel happy because of it, so by sharing our hobby with another person, I think, it could make them happy as well.</item>
+        <item>Ans: Yes, in my childhood I have so many hobbies. During my childhood, my favourite hobby was playing cricket and watching cartoons. Apart from that, I utilized my free time by playing badminton.</item>
+        <item>Ans: Well, there are a number of hobbies that are famous in my country, such as indoor and outdoor games, art, singing, dancing and craft activities. Further, in my nation different people like the different types of hobbies according to their choice.</item>
+        <item>Ans: Yes, I believe spending excessive time on a hobby may have an adverse effect on people. You may end up having not enough time for your priorities like family or work.</item>
+        <item>Ans: Well, Hobbies is the best way to utilize their leisure time. Apart from that, hobbies help them to relieve tension and stress. People nowadays live such a hectic lifestyle that it is important that they take some time to unwind from their daily routine and engage in relaxing and enjoyable activities.</item>
+    </string-array>
+
+
+    <string-array name="hometown_questions">
+        <item>Q. Where is your hometown?</item>
+        <item>Q. What do you like about it?</item>
+        <item>Q. What do you not like about it?</item>
+        <item>Q. How important is your hometown to you?</item>
+        <item>Q. Do you think you will continue to live in your hometown?</item>
+        <item>Q. What is your hometown famous for?</item>
+        <item>Q. What are the people like in your hometown?</item>
+        <item>Q. What is there for a foreigner to see in your hometown?</item>
+    </string-array>
+    <string-array name="hometown_answers">
+        <item>Ans: My hometown is Noakhali which is one of the biggest and ancient cities of Bangladesh. I have lived there for most of the time of my life. It is situated in the southeast part of Bangladesh, located in the Chattogram Division. </item>
+        <item>Ans: The thing that I like the most is its’s transportation system. Noakhali has one of the finest transportation systems in the country—by road, railway and waterway. Buses are the most common form of transport and they are easily available, and run to a wide range of destinations. Inter-City and local trains operate to most common destinations. Water transportation is popular in the southern part of the city.</item>
+        <item>Ans: Now a days the population of my hometown is increasing in a very fast manner. For this reason, the ratio of traffic jam, air pollution and water shortage are increasing day by day. These are the things I don’t like about it.</item>
+        <item>Ans: My hometown is very important to me because that\'s where my family lives. It\'s where I come from, so it shapes a lot of who I am as a person. If I move away, I’ll likely be homesick for a while.</item>
+        <item>Ans: I\'ve lived in my hometown since I was born, and I would be happy to continue living there. However, I\'d like to try living abroad, even if it\'s just for a short time.</item>
+        <item>Ans: Noakhali is famous for it’s dialect. People of Noakhali speak a very interesting informal Bengali dialect which includes the usage of their own distinctive accent. It is often considered to be a nonstandard dialect of Bengali but it is the most famous dialect in Bangladesh.</item>
+        <item>Ans: They are mostly quite friendly, but as with most big cities everyone is often busy so it may seem as if they are not interested in speaking or having a chat. But if you live there you know that most people are quite happy to have a chat if they have time and will help you if needed.</item>
+        <item>Ans: Noakhali is a wonderful tourist center filled with culture and tradition. The lush green paddy fields, beautiful riverside and the friendly local people can give anyone a great experience in this district. Among the tourist attractions of this region, Nijhum Dip has become much famous nowadays. There are some other archaeological sites located in this area like Gandhi Ashram Trust, Bazra Shahi Mosque, Rajgonj Mia Bari and so on. These are also great places of interest and worth visiting for anyone.</item>
+    </string-array>
+
+
+    <string-array name="internet_questions">
+        <item>Q. How important is the Internet to you?</item>
+        <item>Q. Do you use the Internet more for work or in your free time?</item>
+        <item>Q. Do you think you use the Internet too much?</item>
+        <item>Q. What are your favourite websites?</item>
+        <item>Q. What are some of the advantages of internet?</item>
+        <item>Q. What according to you are the disadvantages of Internet?</item>
+        <item>Q. How will the Internet develop in the future?</item>
+        <item>Q. how has the internet changed the way we live?</item>
+        <item>Q. Do you think all the information on the internet is true?</item>
+    </string-array>
+    <string-array name="internet_answers">
+        <item>Ans: Frankly Speaking, Internet has become an essential part of living. I start my morning visiting social media platforms. I depend on it for work, research, study and entertainment, so without it I’d be complete lost.</item>
+        <item>Ans: Actually, I use the Internet everywhere, so both in the workplace and at home when I have leisure time, I would use it.</item>
+        <item>Ans: Definitely, I am a person deeply involved in social networking hence requires too much internet than a normal user.</item>
+        <item>Ans: My two favourite sites are \'The Guardian\' and \'Google\'. The Guardian allows me to keep up to date with everything that’s happening and google allows me to find the information I need quickly and accurately. </item>
+        <item>Ans: Internet has surely come up with great advantages to offer all of us. Firstly, it allows for free communication with people far off from us. You see, it is very easy to know how your friends miles away from you is actually. Also, internet provides us with information regarding anything and everything. There are so many people writing about so many things and often people share their experiences helping others stuck in the same issue. Internet surely has made the world a smaller and a better place.</item>
+        <item>Ans: No doubt, internet is over whelming and it does provides us with everything but then I believe it is very addictive as well. I have seen people getting stuck to it and hence spending so much less time with their family and friends. Also, with youtube and facebook, it is observed that people are becoming more addictive to them and less efficient at work.</item>
+        <item>Ans: Well, with the increase of Internet users, the Internet in the future will reach all people around the world, although in deserts, mountains, deep forests, or even in the deep of the ocean, people are able to use the Internet without any hesitation in connection.</item>
+        <item>Ans: Honestly speaking, the Internet has revolutionised the way we live. Many of us can\'t believe how the people in the pre-internet era managed to do all their works at home or at the office! The internet allows us to work more proficiently at home, work more productively at the office and let us communicate with anyone from the far distance of the world. We make video calls to be in touch with our loved ones, do online shopping, participate in meeting in another city and even drive our cars with the help of the internet. Thus the present era with the spectacular power and blessings of the Internet is truly remarkable.</item>
+        <item>Ans: I believe without an authentic source and credible publisher we should be wary of information we see or find online. The Internet is an astonishing source of information but the fake news and fabricated information are all around there. Thus, I would not believe everything I see online except they are from an authoritative source.</item>
+    </string-array>
+
+
+    <string-array name="lifestyle_questions">
+        <item>Q. Describe your lifestyle?</item>
+        <item>Q. What do you do in your free time?</item>
+        <item>Q. Do you have a busy social life?</item>
+        <item>Q. Do you lead an active life?</item>
+        <item>Q. Has your life changed much in the last year?</item>
+        <item>Q. What would you like to change about your lifestyle?</item>
+        <item>Q. Why is a healthy diet important for us?</item>
+    </string-array>
+    <string-array name="lifestyle_answers">
+        <item>Ans: I’m an office-goer. So I don’t get enough time for workouts on weekdays. But I ensure I eat a nutritious diet and have a water bottle on my table which is a reminder for drinking water. Also, I do yoga in the weekends.</item>
+        <item>Ans: I like to spend my free time with my family. I also care a lot about my health, so I try to do the gym or exercise at home for an hour or two. Moreover, I read newspapers and magazines in the morning because I think it is really important to be aware of the current issues in the world.</item>
+        <item>Ans: Yes, I do have quite a busy social life as I have a lot of friends with whom I often meet sometimes to celebrate someone’s birthday or other important events. I also love to intermingle with like-minded people in social gatherings.</item>
+        <item>Ans: Yes, I do, although during the office hours the I have to follow a sedentary life, I go to walk every morning, and I am also a member of a yoga group so that I can be physically active.</item>
+        <item>Ans: Definitely, there has been a lot of changes in my life. I have become more serious about my health and saving money for difficult times as the corona pandemic taught me a lot of new things.</item>
+        <item>Ans: I want to cultivate a habit of early sleeping because it will not only help me to wake up early in the morning but will also help me to strike a balance between my professional and personal life.</item>
+        <item>Ans: Having a healthy diet is important for us primarily because it provides our bodies with all the food and nutritional values in a perfect measure which are necessary to maintain not only a healthy life physically but also mentally. Besides, a healthy diet is also very important in order to fight off deadly diseases such as heart attacks, strokes and cancers.</item>
+    </string-array>
+
+
+    <string-array name="music_questions">
+        <item>Q. Do you like music?</item>
+        <item>Q. What’s your favourite type of music?</item>
+        <item>Q. At what times of day do you like to listen to music? Why?</item>
+        <item>Q. Can you sing?</item>
+        <item>Q. When do you like to sing?</item>
+        <item>Q. Do you want to be a singer?</item>
+        <item>Q. If you could learn a musical instrument, what would it be?</item>
+        <item>Q. Do you think music is important?</item>
+    </string-array>
+    <string-array name="music_answers">
+        <item>Ans: Yes, I do love listening music.</item>
+        <item>Ans: I love to listen to soft rock mainly because of its ambience as it creates a relaxed and peaceful atmosphere around me on a subconscious level and thus allowing me to be anywhere I like.</item>
+        <item>Ans: I like to listen to my favourite soft rock at night before going to bed as its mellow and smooth sound, together with a slow rhythm, help me to get rid of the tiredness of a stressful day.</item>
+        <item>Ans: Yes, I can sing. Although I am not a professional singer, I sing mostly alone to remove my monotony and make my mood cheerful.</item>
+        <item>Ans: Generally, I am not a frequent singer, and I prefer to sing a song in my free time because I have some kind of plans to reduce my stress level, so evening time is a quite compatible for me because I am already a straight from my workplace and singing helps me to reduce the pressure.</item>
+        <item>Ans: No, I would not want to be a singer because I love to listen as well as sing along. I do have not that high-quality voice to sing on the stage. Moreover, it is, in reality, a gift from God.</item>
+        <item>Ans: I want to learn guitar. Although I have no knowledge about this instrument, I have high hopes that one day I will learn how to play it as I’ve seen many people who played it beautifully and have earned names and fame.</item>
+        <item>Ans: Yes, I think music is very important because it makes people relaxed and makes their day happy. People feel stress-free when they listen to any kind of music. Moreover, music is the best therapy to get rid of worries.</item>
+    </string-array>
+
+
+    <string-array name="newspaperAndMagazine_questions">
+        <item>Q. Do you often read newspapers?</item>
+        <item>Q. Which do you prefer reading, magazines or newspapers?</item>
+        <item>Q. What kinds of newspapers or magazines do you usually read?</item>
+        <item>Q. What kinds of article are you most interested in? </item>
+        <item>Q. Do you think reading a newspaper or magazine in a foreign language is a good way to learn the language? </item>
+        <item>Q. What influence do you think newspapers have on Society?</item>
+    </string-array>
+    <string-array name="newspaperAndMagazine_answers">
+        <item>Ans: Yes, I do read newspapers early in the morning. It has always provided me updated information about each and every corner of the world. In Our country, "Daily Prothom Alo" and "Samakal" are more famous articles and sources of Traditional news.</item>
+        <item>Ans: Well, I prefer to read both newspapers and magazines as newspapers have some important information related to national and international issues. On the other hand, magazines have some useful tips which can be helpful to me in daily activities like preparing, cooking, managing household items and some interesting stories to read.</item>
+        <item>Ans: I read the "Daily Prothom Alo", which is a daily newspaper, every day, and the magazine I like to read the most is "Canvas". I like reading newspapers and magazines whenever I get an opportunity in order to keep myself informed of what is happening in my part of the world as well as the rest of it. I like reading the magazine because I get to learn about the various subjects of my interest.</item>
+        <item>Ans: I am into learning important tips about how to remain healthy both physically and mentally, so I read health-related articles. I am also interested in learning about the latest trends in computer technologies since I am a student of computer science, and as a result, I never like to miss any technology-related articles. But it doesn’t necessarily mean that I don’t like to read other kinds of articles such as those which talks about sports and foods. </item>
+        <item>Ans: Of course, I think reading a newspaper or magazine is a foreign language is an excellent method to learn the language because it helps us to understand the texts of a particular language and their meanings at our own pace and also at a time of our convenience. In fact, English is also a foreign language to me, and I have learnt it by reading English newspapers and journals in addition to following the language on radio and television.</item>
+        <item>Ans: Newspapers are the biggest source of information for the general public. They keep us informed of global events. Newspapers also help shape public opinion. They not only provide news; they also provide views. In my opinion, newspapers have both positive and negative influence on the society.</item>
+    </string-array>
+
+
+    <string-array name="noise_questions">
+        <item>Q. Do you mind noises?</item>
+        <item>Q. What types of noise do you come across in your daily life?</item>
+        <item>Q. Are there any sounds that you like?</item>
+        <item>Q. Where can you hear loud noises?</item>
+        <item>Q. Where do you go to spend time in peace and quiet?</item>
+        <item>Q. Do you think there’s too much noise in modem society?</item>
+        <item>Q. Are cities becoming noisier?</item>
+        <item>Q. Do you know anyone who likes noise?</item>
+    </string-array>
+    <string-array name="noise_answers">
+        <item>Ans: To be honest, I really can\'t stand being in noisy places, especially when I have work to focus on. Then, I wouldn\'t be able to put my mind into what I’m doing, which would undoubtedly reduce my productivity.</item>
+        <item>Ans: Actually, there are a variety of noises a person may come across on a daily basis. The first type is traffic noise such as the engine sounds/ noise or honks, which can get worse during traffic jams. The second is noise coming from factories, construction sites or maybe stores where there are lots of machines in use.</item>
+        <item>Ans: Well, as a matter of fact, I don’t mind nature sounds, I enjoy them actually. I love to surround myself with nature, listening to the chirping birds or blowing winds. It has a great calming effect and is an excellent way to unwind. I\'m also keen on listening to the sounds of musical instruments, especially pianos or violins.</item>
+        <item>Ans: There are many places in the cities where you can hear loud noises. Construction sites are one of them as they are filled with large machines. Another place is on busy roads where there are a lot of vehicles or in stations where many people chatter and announcements are played again and again.</item>
+        <item>Ans: There is a park where I go quite often. The park is not far from my home. It is only a 10-minute walk from my home. It is well-known for its peaceful ambiance. I find great comfort in the silence the spot has to offer. Being a nature lover, every day I visit this park.</item>
+        <item>Ans: Actually, I do agree that the level of noise is increasing overtime and most of it is caused by human activity. Industrial activities such as factory operations has contributed greatly to the rising level of noise pollution. Together with this are noises coming from traffic, concerts or stores that play loud music to attract consumers.</item>
+        <item>Ans: To be honest, I think it depends on the development of each city. Those that are undergoing industrialisation or modernisation are definitely getting noisier while those which are not or have already undergone this process might be unaffected.</item>
+        <item>Ans: Yes, my brother likes more noise. He doesn\'t like to live in a quiet place because he is very jolly. He wants great noise in his surroundings. He feels so energetic and inspired in a noisy place. So I think the reason varies from person to person for choosing a noisy or quiet place.</item>
+    </string-array>
+
+
+    <string-array name="patience_questions">
+        <item>Q. What do you think patience is?</item>
+        <item>Q. Do you think patience is important?</item>
+        <item>Q. Do you think you are a patient person?</item>
+        <item>Q. Have you ever lost your patience?</item>
+        <item>Q. How do you feel when other people are not patient?</item>
+        <item>Q. What do you do if others are not polite to you?</item>
+        <item>Q. Who is more patient, men or women?</item>
+    </string-array>
+    <string-array name="patience_answers">
+        <item>Ans: I believe Patience is nothing but controlling ourselves without any mood changes in all the circumstances.</item>
+        <item>Ans: Absolutely. I think it’s a quality that everybody should try to learn. In my opinion, learning to wait until the right time is the key to success. In fact, most successful entrepreneurs are very patient.</item>
+        <item>Ans: Over the years, I’ve come to realise its value and have practised rigorously to cultivate patience. I consider myself a patient individual who tries to stay calm and composed in tedious situations and I also try to calm people around so that we can together conquer the ordeal by thinking clearly.</item>
+        <item>Ans: Well, yeah, without doubt, there has been times when I lost my cool. For example, there was this one time, when I had to wait forever to be seated at a popular restaurant. Then someone suddenly cut in line and that really ticked me off.</item>
+        <item>Ans: Well, I feel agitated when people behave impatiently. Usually we see people losing patience at public places as they do not like to wait for their turn and want to get their work done first. It is highly disappointing and annoying to me.</item>
+        <item>Ans: If others are not polite to me, well, I deal with them politely. Polite behaviour and talk fairly impress others. It helps to motivate others to be polite with someone else.</item>
+        <item>Ans: I don’t want to sound stereotypical. I believe both genders can be more patient or impatient depending on the situation. All of us have the tendency to stretch our patience as much as we can bear, but if it reaches the point when we can no longer handle it, we surely lose our cool.</item>
+    </string-array>
+
+
+
+    <string-array name="photography_questions">
+        <item>Q. Do you like to take photographs?</item>
+        <item>Q. Do you prefer to take photos yourself or to have other people take photos?</item>
+        <item>Q. How often do you take photographs?</item>
+        <item>Q. Do you prefer to take pictures of people or of scenery?</item>
+        <item>Q. In what situations do you take photographs?</item>
+        <item>Q. How do you keep your photos?</item>
+        <item>Q. Are there any photos on the walls of your home?</item>
+    </string-array>
+    <string-array name="photography_answers">
+        <item>Ans: Of course! Who doesn\'t love to? I think every one of us enjoys capturing moments from time to time with our camera. Well, most especially these days that we all have smartphones. Our smartphones can take photos very instantly whenever and wherever we are. In fact, I have numerous photos of my travels stored on my smartphone.</item>
+        <item>Ans: To be honest, I like to take photos by myself so that the precious moments are captured from my perspective. Moreover, as I’m not really good at posing for pictures, I always find it embarrassing when being a model for someone.</item>
+        <item>Ans: In the past, I used to take photos on a weekly basis as I was really addicted to it. However, as I’ve grown up and have had many tasks to deal with, I rarely use my camera anymore.</item>
+        <item>Ans: Well, landscape photography is more appealing to me as I was born and lived for quite a long time in Alipur, a small village in Noakhali whose population is low but scenery is gorgeous. I\'ve shot lots of great pictures there.</item>
+        <item>Ans: Generally, when I go out with my family for traveling. I would love to capture that beautiful memory of our journey in photos. Also, when I show some jaw-dropping beauty of nature like sunset or sunrise, I sure take a picture of that.</item>
+        <item>Ans: On my iCloud! I’m really grateful for this type of technology that keeps this record of my photos for me. Moreover, I post my photos on social media, such as Facebook and Instagram, so that also keeps them secure.</item>
+        <item>Ans: There is one family picture on our living room wall, taken when all family members gathered at our home at the last Eid celebration.</item>
+    </string-array>
+
+
+    <string-array name="sports_questions">
+        <item>Q. Do you play any sports?</item>
+        <item>Q. Do you watch sports on TV?</item>
+        <item>Q. What kind of games do you play?</item>
+        <item>Q. What is the most popular sport in your country?</item>
+        <item>Q. Do you think grown ups should play games?</item>
+        <item>Q. What kind of games did you play as a child?</item>
+        <item>Q. What do children learn from games?</item>
+    </string-array>
+    <string-array name="sports_answers">
+        <item>Ans: Definitely. I really enjoy playing both outdoor and indoor games, with cricket and chess being my favorite.</item>
+        <item>Ans: Yeah. It\'s really entertaining to watch sports. In fact, I have subscribed to various sports television channels like Zee sports and CNBC etc at my home.</item>
+        <item>Ans: I really love playing cricket and chess. But I also enjoy playing football, table tennis, ludo and monopoly.</item>
+        <item>Ans: People in my country are crazy about cricket. You can see almost everyone playing and enjoying it. Apart from cricket, tennis and badminton have been some of the most watched games. However, with time, games such as football, hockey, boxing are also being watched and liked by people.</item>
+        <item>Ans: I believe games and age have no connection. One can play any game whenever they like. It is the best way to do a physical exercise with some emotional advantages as well.</item>
+        <item>Ans: As a child, I used to play outdoor games more often than indoor games. We were a group of ten to twelve people and loved playing either cricket or hide and seek or go cycling. We even played badminton, football and sometimes volleyball.</item>
+        <item>Ans: I think it depends on what they want to learn. For instance, children playing cricket or football learn team work, time management, stress handling. Those who play chess or monopoly improve on their mental skills.</item>
+    </string-array>
+
+
+    <string-array name="study_questions">
+        <item>Q. What do you study?</item>
+        <item>Q. Where do you study that?</item>
+        <item>Q. Why did you choose the subject?</item>
+        <item>Q. Is it popular subject in your country?</item>
+        <item>Q. Do you like the subject?</item>
+        <item>Q. Do you get on with your friends?</item>
+        <item>Q. What was your first day like?</item>
+        <item>Q. What are the main aspects of your subject?</item>
+        <item>Q. If you had the chance, would you change subject?</item>
+        <item>Q. What job would you like when you have completed all your studies?</item>
+    </string-array>
+    <string-array name="study_answers">
+        <item>Ans: I am currently studying (BBA/Engineering/Others).</item>
+        <item>Ans: I am studying in the (university name). It is one of the best private universities in our country. </item>
+        <item>Ans: I have chosen this subject because my brother studied this subject and since my childhood, he was my idol and that’s why my interest in this subject has grown up from an early age.</item>
+        <item>Ans: Yes, this is a very popular subject in my country. As this subject has a bright future and many job opportunities, students choose this subject. They can have a good career if they study this subject. </item>
+        <item>Ans: Of course, I like my subject. The books are very interesting to read and I have my interest in this subject since my childhood.</item>
+        <item>Ans: Yes! I believe have a strong relationship with my friends. They are very helpful to me and I also help them as far as I can. We are very friendly to each other and we look forward to helping if someone needed it.</item>
+        <item>Ans: I vividly remember this day. I was very nervous on the first day as I do not know any of them. I was feeling down. But as the orientation class began I meet some students from my class and I talked with each other. After a few minutes, I started to feel comfortable. They are still my best friend and I remember the day very well.</item>
+        <item>Ans: As I mentioned earlier, My subject is very popular among young people in my country because it has a good future. the main aspects of my subjects are (Talk about your subject, The main thing about your subject, Main aspects).</item>
+        <item>Ans: No, I would never change my subject. I love my subject very much and not going to change my subject for anything.</item>
+        <item>Ans: Yes. I am planning to get a job in the same field. My brother who already completed his graduation in this subject is now working in a multinational company for a handsome salary. I expect I will also get a good job related to my subject after my graduation.</item>
+    </string-array>
+
+
+    <string-array name="transportation_questions">
+        <item>Q. How do you get here today?</item>
+        <item>Q. Do you usually commute by using public transport?</item>
+        <item>Q. What form of transport do you prefer to use? Why?</item>
+        <item>Q. Do you prefer public transportation or private transportation?</item>
+        <item>Q. What will become the most popular means of transport in your country?</item>
+        <item>Q. How often do you take buses?</item>
+        <item>Q. Is it easy to catch a bus in your country?</item>
+        <item>Q. Can you compare the advantages of planes and trains?</item>
+        <item>Q. How could the transportation system be improved in your country?</item>
+    </string-array>
+    <string-array name="transportation_answers">
+        <item>Ans: I came by bike because the roads are pretty congested at this time and a bike is quicker. It only take me about 15 minutes to get here.</item>
+        <item>Ans: Yes, I do. I use the bus almost every day. It’s the cheapest way to get around even though it’s really overcrowded and not particularly punctual.</item>
+        <item>Ans: Without any doubt, I would say motorbikes. You can see people driving a motorbike all over the place in my country. Almost everyone travels by motorbike. The reason why a motorbike is so popular is due to their reasonable price and convenience. They also extremely varied in terms of size, color and quality, thus a wide variety of choices is available for everyone.</item>
+        <item>Ans: I think I’d prefer public transport. It’s much more inexpensive and because it can contain a large number of people, it helps ease the intensity of traffic jams during peak hours and reduce the greenhouse gas emissions caused by vehicles. Private transportation is more costly in terms of fees, taxes and gasoline.</item>
+        <item>Ans: I think buses will take the lead. You can travel the distance without much worries about ticket price or rainy weather outside. Also, new buses now offer better services like comfortable seats for the elderly or good air conditioning systems.</item>
+        <item>Ans: Almost every day. Since my house is so far away from my university, it’s impossible for me to travel by motorbike. In addition, the air is heavily polluted by exhaust fumes and traffic jams always take place, especially during peak hours. Thus, I’d prefer to take the bus, to save time, save gasoline and causing less pollution.</item>
+        <item>Ans: Yes, there are multiple local bus stops available to travel all over the city and also, there are frequent buses available for city dwellers to go shopping and to reach the schools and colleges. To answer your question, yes it is easy to catch the bus in my country.</item>
+        <item>Ans: Planes and trains regularly depart and arrive on time. Plus, there are many convenient facilities catering particularly to certain groups of passengers. However, traveling by plane is clearly time-saving and enjoyable in terms of onboard services like meals or comfortable seats, while traveling by train offers you a chance to see the world outside, admire the views from their seats. It’s totally a great experience for most train-travelers.</item>
+        <item>Ans: Well, I think the first step to improvement would be to widen the roads and build to overpasses and underpasses to help traffic flow more freely which would reduce the congestion in the city center. Also, it would help if the bus service was improved to make it more frequently which would help with the overcrowding in rush hour. I think those are two changes that need to happen.</item>
+    </string-array>
+
+
+    <string-array name="travel_questions">
+        <item>Q. Do you like travelling?</item>
+        <item>Q. Whom do you often spend the holiday with?</item>
+        <item>Q  Have you done much travelling?</item>
+        <item>Q. What kind of places have you visited in your life?</item>
+        <item>Q. When you visit new places, what do you like to do?</item>
+        <item>Q. Do you prefer travelling alone or in a group?</item>
+        <item>Q. Do you often travel abroad?</item>
+        <item>Q. In which seasons do you prefer to travel?</item>
+        <item>Q. What is the best season to travel in your country?</item>
+        <item>Q. Would you say your country is a good place for travellers to visit?</item>
+        <item>Q. What would you recommend a foreigner to visit in your country?</item>
+        <item>Q. What places would you like to visit in the future?</item>
+        <item>Q. What do you do while you are travelling?</item>
+    </string-array>
+    <string-array name="travel_answers">
+        <item>Ans: Yes. Travelling just changes your mind and refreshes you and makes you forget the busy work schedule. When you start enjoying yourself for some time, you get charged up.</item>
+        <item>Ans: I often spend my holidays with my cousins who live in Noakhali. We enjoy each others company.</item>
+        <item>Ans: No, unfortunately, I haven’t managed to do much travelling primarily because of limited financial opportunities. Besides, I don’t really manage to make much time either outside of my work life so that I could actually do much travelling. But, of course, I am not giving up my hope as yet to visit some places in future that I really like.</item>
+        <item>Ans: I have visited almost every type of place where people enjoy their life, places where people have a lot of opportunities to express their creativity, places which are well known for their educational facilities etc.</item>
+        <item>Ans: Whenever I visit a place the first thing I do is search about the history or past of that place ,then record the experiences I get there. I write about what I did , what I liked etc. I just jot down in my travel diary so that whenever I open and read it I can relive those memories.</item>
+        <item>Ans: I prefer travelling in a group as it’s always safe and most affordable. Also when we go on a trip as a group we are bonded with different type of people and make a lot beautiful ,sour and sweet memories.</item>
+        <item>Ans: I haven’t travelled abroad yet. First I want to tour all places within my country.</item>
+        <item>Ans: I prefer travelling in winter because the weather and atmosphere remains cool and soothing and it feels good to travel when it’s cool and soul-satisfying.</item>
+        <item>Ans: The best time to travel in Bangladesh is in the span of November to February when it is mixed weather. In this period it’s cold and dry simultaneously.</item>
+        <item>Ans: Yes, definitely. Bangladesh has a very rich and diverse culture. The way the people in Bangladesh welcome others with such a warm heart is tremendous to be felt.</item>
+        <item>Ans: Each and every place in my country is significant for a particular thing. I would rather suggest a foreigner to tour all over India because there is not even a corner here that isn’t unique.</item>
+        <item>Ans: I would like to visit New York and also Switzerland. These are my most favourite and desired destinations because of their scenic beauty and also the people who are very generous and sweet.</item>
+        <item>Ans: When travelling in a car I just sit back and enjoy the scenery. When on the train I really prefer sleeping and if I’m travelling by flight I would prefer reading a novel with my music on.</item>
+    </string-array>
+
+
+
+    <string-array name="tvAndMovies_questions">
+        <item>Q. Do you like watching TV?</item>
+        <item>Q. Has the internet affected your viewing habits?</item>
+        <item>Q. Do you like to watch movies?</item>
+        <item>Q. Which does you prefer foreign films or local films?</item>
+        <item>Q. Who is your favorite actor?</item>
+        <item>Q. How often do you go to the cinema to watch a movie?</item>
+        <item>Q. What types of movies do you like best?</item>
+        <item>Q. How do people in your country react to the cinema?</item>
+        <item>Q. Which types of movies do you try to avoid?</item>
+        <item>Q. What is your opinion on the people who blindly follow their favourite superstars?</item>
+    </string-array>
+    <string-array name="tvAndMovies_answers">
+        <item>Ans: I am not really fond of television as such. So, you can find me seeing television very rarely. Like may be sometime in two months or when there is a cricket match. I like watching matches on television because the entire family comes together to watch it.</item>
+        <item>Ans: Yes, the internet has affected my viewing habit because nowadays I can watch all the tv programs like serials, news on youtube whenever I want.</item>
+        <item>Ans: Yes, I love to watch movies. I like comedy movies, horror and action films and I have numerous action and horror movies on my laptop.</item>
+        <item>Ans: Honestly speaking, I like foreign movies. Because watching foreign movies can be an effective way to improve English and It is fairly an interesting method to get to know about foreign culture through movies.</item>
+        <item>Ans: My favourite actor is Keanu Reeves. He is very handsome and charming. He is not only a good actor in reel life but also a great person in real life. Instead of having a difficult life, his rise to stardom is appreciable. He often hangs out with homeless people and treats everyone as equals. He does a lot of charity and gives donations.</item>
+        <item>Ans: I visit the cinema to watch a movie once a month because nowadays the existence of the Internet all latest movies are available online. So most of the time I watch a movie at home on smart TV with my family.</item>
+        <item>Ans: As I said earlier, I like action, horror and comedy movies, but I think comedy films are best because a person gets relaxation while watching these kinds of movies.</item>
+        <item>Ans: Cinema plays a vital role in our lives. Nowadays 3D cinemas are available in which increased the cinemas quality and allure more people, especially children to watch movies in cinemas. So in my country, people do love cinemas and feel connected to it.</item>
+        <item>Ans: Well, I am not too fond of sad movies, so I always try to avoid to watch sad movies because these kinds of films increase tension instead to reduce it.</item>
+        <item>Ans: Every human being has some bad and good qualities. So if people follow other’s good qualities, then they can get success in their lives, but their life could be spoiled if they follow some bad habits. So, in the case of superstars. If people blindly follow their favourite stares, they spoil their career and life. But it doesn’t mean that should not follow the superstars. Follow them, but only good qualities.</item>
+    </string-array>
+
+
+
+    <string-array name="weather_questions">
+        <item>Q. How is the weather today?</item>
+        <item>Q. What’s your favourite kind of weather?</item>
+        <item>Q. Is there any type of weather you really don’t like?</item>
+        <item>Q. What is the climate like in your country?</item>
+        <item>Q. Does the weather affect people’s lives in your country?</item>
+        <item>Q. Do you prefer to hot weather or cold?</item>
+        <item>Q. Has the weather changed much in your country in recent years?</item>
+        <item>Q. What sort of weather do you like the most?</item>
+        <item>Q. What season (or weather) do you think is most suitable for work or study?</item>
+    </string-array>
+    <string-array name="weather_answers">
+        <item>Ans: It’s fairly hot and humid out today. I don’t like this kind of weather much, because I end up sweating a lot just by stepping outside.</item>
+        <item>Ans: I love cool, overcast weather. I like when I can wear a light jacket and don’t feel hot at all, but of course I also don’t like getting too cold.</item>
+        <item>Ans: Yes, I really don’t like hot and humid weather. It makes me feel sick and tired when I am so sweaty and hot, plus it ruins my clothes.</item>
+        <item>Ans: The climate is fairly hot and humid most of the year, with a very mild winter and a rainy season. There are also typhoons that tend to come around the beginning of the summer.</item>
+        <item>Ans: Yes, when it rains, many people will choose to drive their cars instead of riding their scooters, which causes heavier traffic. On top of that, the typhoons sometimes end up causing trains and planes to be canceled and in winter many homeless people die due to the harsh cold.</item>
+        <item>Ans: I much prefer cold weather. The cold just feels better for me. Almost refreshing. Yeah it can get bothersome after a little while, but I\'d rather feel cold than steaming hot, sweating buckets. It also helps me stay focused, while hot weather makes me feel drowsy.</item>
+        <item>Ans: The weather has been getting hotter in the summers, and the summers have been getting longer. I think it might be due to global climate change.</item>
+        <item>Ans: My favorite sort of weather is cool, with a light breeze and a few clouds in the sky. I don’t like when it’s too bright and sunny.</item>
+        <item>Ans: I think the best season for getting work done is the fall, because it’s not too cold or too hot. The weather won’t affect you much at all.</item>
+    </string-array>
+
+
+
+    <string-array name="work_questions">
+        <item>Q. Do you have a job right now?</item>
+        <item>Q. What was it like on your first day at work?</item>
+        <item>Q. Do you enjoy your job?</item>
+        <item>Q. Do you get on well with your co-workers?</item>
+        <item>Q. What responsibilities do you have at work?</item>
+        <item>Q. What skills and qualifications are required for this job?</item>
+        <item>Q. How long will you continue to do this type of work?</item>
+    </string-array>
+    <string-array name="work_answers">
+        <item>Ans: Yes, I have. I am working as an android developer in a private software company.</item>
+        <item>Ans: Well, it was amazing. At first, I was a bit nervous as I didn’t know anyone and didn’t have any previous job experience either. But my colleagues were very friendly and helpful. They introduced themselves and tried to make me feel ease. After talking with them for some time I didn’t feel that it was my first day at work anymore. That’s how it was like.</item>
+        <item>Ans: Yeah, pretty much. I feel that I am working with professionals that I can learn from and that they will push me to take on new and challenging opportunities. Besides I am treated with respect, given daily encouragement and paid well.</item>
+        <item>Ans: I have a cordial relationship with my colleagues. Generally, we all work as a team to achieve our weekly targets. We have a better understanding that helps us to be each other’s support system.</item>
+        <item>Ans: I design and develop applications for the Android platform. Other than that, I also have to work on bug fixing and improving application performance as well.</item>
+        <item>Ans: To become an Android developer, one must have a bachelor\'s degree or diploma in Computer Science or training in the technical environment. He/she must be skilled in programming language and should have a good designing approach. An android developer is required to have knowledge of mobile app platforms, tools, and should have a good understanding of the phases of the development process.</item>
+        <item>Ans: Umm! I will continue to work for this type of job at least next 5 to 6 years. After that, I have a plan to become an entrepreneur and run my own software company.</item>
+    </string-array>
+
+
+    <!--
+        <string name="admob_app_id">ca-app-pub-5623976898559947~2756931130</string>
+        <string name="admob_interstitial_id">ca-app-pub-5623976898559947/3608097939</string>
+        <string name="admob_banner_id">ca-app-pub-5623976898559947/6313032760</string>
+    -->
+
+
+        <!--test id-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

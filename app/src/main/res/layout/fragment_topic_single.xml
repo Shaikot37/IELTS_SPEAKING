@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    app:cardElevation="2dp"
+    android:layout_marginBottom="10dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/title_bg">
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            >
+
+            <!--Text view for showing the questions-->
+            <TextView
+                android:id="@+id/question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Question"
+                android:textColor="#191919"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_weight="0.2"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/dropdown_symbol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/ic_baseline_arrow_drop_down_24"
+                android:gravity="center"
+                android:layout_weight="1.8"
+                />
+
+        </LinearLayout>
+
+        <!--This is the layout "expanded_view" we will
+            hide initially and show as expanded
+            layout when user clicks on any of the item-->
+        <RelativeLayout
+            android:id="@+id/expanded_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/linear">
+
+            <!--It has a text view which we will use in our case as
+                a description text for the languages-->
+            <TextView
+                android:id="@+id/answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="13dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:justificationMode="inter_word"
+                android:text="Answer"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

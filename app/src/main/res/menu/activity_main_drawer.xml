@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_topic_24"
+            android:title="@string/menu_topic" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_baseline_about_24"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_baseline_feedback_24"
+            android:title="@string/menu_send_feedback" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="@string/menu_share_with_friends" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_baseline_star_half_24"
+            android:title="@string/menu_rate_us" />
+
+    </group>
+</menu>
